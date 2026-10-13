@@ -6,7 +6,7 @@ CSC312 Databases, Practical Assignment 2 (University of the Western Cape)
 
 | Member | Student number |
 |---|---|
-| Tumelo Aphane (group leader) | 4351723 |
+| Tumelo Aphane (Group leader) | 4351723 |
 | Yanga Madosi | 4354243 |
 | Caleb Meyer | 4359047 |
 | Nhlamulo Maluleka | 4358074 |
