@@ -1,0 +1,669 @@
+tconst	ordering	nconst	category	job	characters
+tt0080801	1	nm0618452	actor	\N	["Xi"]
+tt0080801	2	nm0923366	actor	\N	["Andrew Steyn"]
+tt0080801	3	nm0697865	actress	\N	["Kate Thompson"]
+tt0080801	4	nm0895116	actor	\N	["Sam Boga"]
+tt0080801	5	nm0862347	actor	\N	["Mpudi"]
+tt0080801	6	nm0208910	actor	\N	["Jack Hind"]
+tt0080801	7	nm0796717	actor	\N	["Card 1"]
+tt0080801	8	nm0780494	actor	\N	["Card 2"]
+tt0080801	9	nm0642598	actor	\N	["Mr. Thompson"]
+tt0080801	10	nm0304027	actor	\N	["President"]
+tt0080801	11	nm0371059	director	\N	\N
+tt0080801	12	nm0371059	writer	written by	\N
+tt0080801	13	nm0371059	producer	producer	\N
+tt0080801	14	nm0097945	composer	composer	\N
+tt0080801	15	nm0507676	cinematographer	\N	\N
+tt0080801	16	nm0721622	cinematographer	\N	\N
+tt0080801	17	nm0371059	cinematographer	\N	\N
+tt0080801	18	nm0371059	editor	\N	\N
+tt0105316	1	nm0000155	actress	\N	["Mary Masembuko"]
+tt0105316	2	nm0452009	actress	\N	["Sarafina"]
+tt0105316	3	nm0538460	actress	\N	["Angelina"]
+tt0105316	4	nm0434712	actor	\N	["School Principal"]
+tt0105316	5	nm0229335	actor	\N	["Crocodile"]
+tt0105316	6	nm0628913	actor	\N	["Sabela"]
+tt0105316	7	nm1984577	actor	\N	["Guitar"]
+tt0105316	8	nm0576945	actor	\N	["Lieutenant Bloem"]
+tt0105316	9	nm0925722	actor	\N	["Interrogator"]
+tt0105316	10	nm0583905	actor	\N	["Fire"]
+tt0105316	11	nm0740213	director	director	\N
+tt0105316	12	nm0628913	writer	play	\N
+tt0105316	13	nm0629933	writer	screenplay	\N
+tt0105316	14	nm0802081	producer	producer	\N
+tt0105316	15	nm0860034	producer	producer	\N
+tt0105316	16	nm0004368	composer	\N	\N
+tt0105316	17	nm0895917	cinematographer	\N	\N
+tt0105316	18	nm0374763	editor	\N	\N
+tt0105316	19	nm0391449	editor	\N	\N
+tt0105316	20	nm0859496	editor	\N	\N
+tt0105316	21	nm0055026	production_designer	\N	\N
+tt0112749	1	nm0001321	actor	\N	["James Jarvis"]
+tt0112749	2	nm0000469	actor	\N	["Rev. Stephen Kumalo"]
+tt0112749	3	nm0475100	actor	\N	["Theophilus Msimangu"]
+tt0112749	4	nm0001165	actor	\N	["John Kumalo"]
+tt0112749	5	nm0917037	actress	\N	["Child"]
+tt0112749	6	nm0711706	actress	\N	["Mrs. Kumalo"]
+tt0112749	7	nm0538521	actor	\N	["Mpanza"]
+tt0112749	8	nm0732695	actor	\N	["Ian Jarvis"]
+tt0112749	9	nm0829935	actress	\N	["Mary Jarvis"]
+tt0112749	10	nm0623506	actor	\N	["Man 1"]
+tt0112749	11	nm0740213	director	director	\N
+tt0112749	12	nm0367838	writer	screenplay	\N
+tt0112749	13	nm0665704	writer	novel	\N
+tt0112749	14	nm0802081	producer	producer	\N
+tt0112749	15	nm0869935	producer	producer	\N
+tt0112749	16	nm0000290	composer	\N	\N
+tt0112749	17	nm0319645	cinematographer	director of photography	\N
+tt0112749	18	nm0374763	editor	\N	\N
+tt0112749	19	nm0888107	casting_director	casting_director	\N
+tt0112749	20	nm0055026	production_designer	\N	\N
+tt0419279	1	nm0452009	actress	\N	["Yesterday Khumalo"]
+tt0419279	2	nm1671580	actress	\N	["Beauty"]
+tt0419279	3	nm1459085	actor	\N	["John Khumalo"]
+tt0419279	4	nm1003035	actress	\N	["Teacher"]
+tt0419279	5	nm1671897	actress	\N	["Doctor"]
+tt0419279	6	nm0638600	actress	\N	["Sangoma in village"]
+tt0419279	7	nm0538505	actor	\N	["Man at clinic"]
+tt0419279	8	nm2261371	actress	\N	["Matron"]
+tt0419279	9	nm3983251	actor	\N	["Security guard"]
+tt0419279	10	nm5344883	actor	\N	["Short teacher"]
+tt0419279	11	nm0740213	director	director	\N
+tt0419279	12	nm0740213	writer	writer	\N
+tt0419279	13	nm0802081	producer	producer	\N
+tt0419279	14	nm0819680	producer	producer	\N
+tt0419279	15	nm1709593	composer	\N	\N
+tt0419279	16	nm0117357	cinematographer	\N	\N
+tt0419279	17	nm0079567	editor	\N	\N
+tt0419279	18	nm0787836	casting_director	\N	\N
+tt0419279	19	nm1525652	production_designer	\N	\N
+tt0445776	1	nm1847057	actress	\N	["Carmen - cigarette girl"]
+tt0445776	2	nm1847487	actor	\N	["Jongikhaya"]
+tt0445776	3	nm1832344	actor	\N	["Nomakhaya"]
+tt0445776	4	nm1847375	actress	\N	["Lulamile Nkomo"]
+tt0445776	5	nm2008858	actor	\N	["Bra Nkomo"]
+tt0445776	6	nm2061015	actor	\N	["Captain Gantana"]
+tt0445776	7	nm1845380	actor	\N	["Amanda - cigarette girl"]
+tt0445776	8	nm2011543	actress	\N	["Pinki - cigarette girl"]
+tt0445776	9	nm5703077	actress	\N	["Manelisa - cigarette girl"]
+tt0445776	10	nm2610787	actor	\N	["Photographer"]
+tt0445776	11	nm0233919	director	\N	\N
+tt0445776	12	nm0233919	writer	\N	\N
+tt0445776	13	nm0021283	writer	opera libretto "Carmen"	\N
+tt0445776	14	nm1845380	writer	\N	\N
+tt0445776	15	nm1847057	writer	\N	\N
+tt0445776	16	nm0233919	producer	producer	\N
+tt0445776	17	nm1666059	producer	executive producer	\N
+tt0445776	18	nm0080945	cinematographer	\N	\N
+tt0445776	19	nm0519787	editor	\N	\N
+tt0445776	20	nm2005039	production_designer	\N	\N
+tt0468565	1	nm1970113	actor	\N	["Tsotsi"]
+tt0468565	2	nm1708171	actor	\N	["Boston"]
+tt0468565	3	nm1987447	actor	\N	["Mandla, Tsotsi's Father"]
+tt0468565	4	nm1965907	actress	\N	["Miriam"]
+tt0468565	5	nm1970380	actor	\N	["Aap"]
+tt0468565	6	nm1970636	actor	\N	["Butcher"]
+tt0468565	7	nm1969757	actor	\N	["Fela"]
+tt0468565	8	nm0782648	actor	\N	["John Dube"]
+tt0468565	9	nm1474342	actress	\N	["Pumla Dube"]
+tt0468565	10	nm5039948	actor	\N	["The Baby"]
+tt0468565	11	nm0004303	director	\N	\N
+tt0468565	12	nm0004303	writer	written by	\N
+tt0468565	13	nm0297538	writer	novel	\N
+tt0468565	14	nm0297317	producer	producer	\N
+tt0468565	15	nm0378364	composer	\N	\N
+tt0468565	16	nm0453179	composer	\N	\N
+tt0468565	17	nm1486670	cinematographer	\N	\N
+tt0468565	18	nm0318701	editor	\N	\N
+tt0468565	19	nm0497922	casting_director	\N	\N
+tt0468565	20	nm0746198	production_designer	production_designer	\N
+tt0783532	1	nm0782648	actor	\N	["Lucky Kunene"]
+tt0783532	2	nm2358928	actor	\N	["Nazareth"]
+tt0783532	3	nm0638450	actor	\N	["Zakes Mbolelo"]
+tt0783532	4	nm0581910	actress	\N	["Leah Friedlander"]
+tt0783532	5	nm2850675	actor	\N	["Tony Ngu"]
+tt0783532	6	nm1193091	actor	\N	["Inspector Blakkie Swart"]
+tt0783532	7	nm2361025	actor	\N	["Young Kunene"]
+tt0783532	8	nm2358948	actress	\N	["Young Zakes"]
+tt0783532	9	nm1970380	actor	\N	["Lucas Sithole"]
+tt0783532	10	nm5026776	actress	\N	["News reader"]
+tt0783532	11	nm0956537	director	\N	\N
+tt0783532	12	nm0956537	writer	writer	\N
+tt0783532	13	nm1568121	producer	producer	\N
+tt0783532	14	nm0956537	producer	producer	\N
+tt0783532	15	nm0003039	composer	\N	\N
+tt0783532	16	nm1914331	cinematographer	\N	\N
+tt0783532	17	nm0375028	editor	\N	\N
+tt0783532	18	nm0522748	editor	\N	\N
+tt0783532	19	nm2667044	casting_director	\N	\N
+tt1057500	1	nm0000151	actor	\N	["Nelson Mandela"]
+tt1057500	2	nm0000354	actor	\N	["Francois Pienaar"]
+tt1057500	3	nm0450961	actor	\N	["Jason Tshabalala"]
+tt1057500	4	nm0595680	actor	\N	["Linga Moonsamy"]
+tt1057500	5	nm1340604	actor	\N	["Hendrick Booyens"]
+tt1057500	6	nm0428484	actor	\N	["Etienne Feyder"]
+tt1057500	7	nm0027957	actress	\N	["Brenda Mazibuko"]
+tt1057500	8	nm3325268	actress	\N	["Nerine"]
+tt1057500	9	nm0452009	actress	\N	["Mary"]
+tt1057500	10	nm0529300	actor	\N	["Mr. Pienaar"]
+tt1057500	11	nm0000142	director	\N	\N
+tt1057500	12	nm0669756	writer	screenplay	\N
+tt1057500	13	nm1985343	writer	book "Playing the Enemy: Nelson Mandela and the Game that Made a Nation"	\N
+tt1057500	14	nm0000142	producer	producer	\N
+tt1057500	15	nm0520749	producer	producer	\N
+tt1057500	16	nm0566975	producer	producer	\N
+tt1057500	17	nm0626883	producer	producer	\N
+tt1057500	18	nm0247762	composer	\N	\N
+tt1057500	19	nm0828630	composer	\N	\N
+tt1057500	20	nm0827869	cinematographer	director of photography	\N
+tt1057500	21	nm0185088	editor	\N	\N
+tt1057500	22	nm0730013	editor	editor	\N
+tt1057500	23	nm0918587	casting_director	\N	\N
+tt1057500	24	nm0613468	production_designer	\N	\N
+tt1059969	1	nm0000092	actor	\N	["The Guv - Mr. Edly"]
+tt1059969	2	nm2931989	actor	\N	["John 'Spud' Milton"]
+tt1059969	3	nm4192157	actor	\N	["Henry 'Gecko' Barker"]
+tt1059969	4	nm3922085	actor	\N	["Rambo"]
+tt1059969	5	nm4661387	actor	\N	["Fatty"]
+tt1059969	6	nm3816470	actor	\N	["Vern 'Rain Main' Blackadder"]
+tt1059969	7	nm3804081	actor	\N	["Charlie 'Mad Dog' Hooper"]
+tt1059969	8	nm4661390	actor	\N	["Boggo"]
+tt1059969	9	nm3813859	actor	\N	["Simon Brown"]
+tt1059969	10	nm2271261	actor	\N	["Sparerib - Mr. Wilson"]
+tt1059969	11	nm1804518	director	\N	\N
+tt1059969	12	nm1804518	writer	written by	\N
+tt1059969	13	nm3823134	writer	based on the book: "Spud"	\N
+tt1059969	14	nm2751725	composer	composer	\N
+tt1059969	15	nm1486670	cinematographer	\N	\N
+tt1059969	16	nm0318701	editor	\N	\N
+tt1059969	17	nm0399224	casting_director	casting_director	\N
+tt1059969	18	nm3474924	casting_director	casting_director	\N
+tt1059969	19	nm2602644	production_designer	\N	\N
+tt10699362	1	nm9240445	actor	\N	["Nicholas van der Swart"]
+tt10699362	2	nm0893228	actress	\N	["Suzie van der Swart"]
+tt10699362	3	nm4947583	actor	\N	["Miles"]
+tt10699362	4	nm10921968	actor	\N	["Peet van der Swart"]
+tt10699362	5	nm9239139	actor	\N	["Instructor on Train"]
+tt10699362	6	nm1049745	actor	\N	["Liberal Recruit"]
+tt10699362	7	nm10975600	actor	\N	["Snyman"]
+tt10699362	8	nm10921967	actor	\N	["Bester"]
+tt10699362	9	nm10865464	actor	\N	["Michael Sachs"]
+tt10699362	10	nm11781956	actor	\N	["Elderly Black Man"]
+tt10699362	11	nm3564996	director	\N	\N
+tt10699362	12	nm3564996	writer	screenplay by	\N
+tt10699362	13	nm3386106	writer	screenplay by	\N
+tt10699362	14	nm11781906	writer	based on the book by	\N
+tt10699362	15	nm0008937	producer	producer	\N
+tt10699362	16	nm3386106	producer	producer	\N
+tt10699362	17	nm2689213	composer	\N	\N
+tt10699362	18	nm3280430	cinematographer	director of photography	\N
+tt10699362	19	nm0220918	editor	\N	\N
+tt10699362	20	nm5290795	editor	\N	\N
+tt10699362	21	nm2323363	casting_director	\N	\N
+tt10699362	22	nm0507194	production_designer	\N	\N
+tt1136608	1	nm1663205	actor	\N	["Wikus van de Merwe"]
+tt1136608	2	nm3107870	actor	\N	["Koobus Venter"]
+tt1136608	3	nm2271261	actor	\N	["Grey Bradnam - UKNR Chief Correspondent"]
+tt1136608	4	nm2271261	actor	\N	["Christopher Johnson"]
+tt1136608	5	nm3241306	actress	\N	["Tania van de Merwe"]
+tt1136608	6	nm3267184	actor	\N	["Fundiswa Mhlanga"]
+tt1136608	7	nm1970380	actor	\N	["Thomas"]
+tt1136608	8	nm3392525	actor	\N	["Obesandjo"]
+tt1136608	9	nm3227023	actor	\N	["Piet Smit"]
+tt1136608	10	nm0950165	actor	\N	["Dirk Michaels"]
+tt1136608	11	nm1410076	actress	\N	["Sarah Livingstone - Sociologist"]
+tt1136608	12	nm0088955	director	\N	\N
+tt1136608	13	nm0088955	writer	written by	\N
+tt1136608	14	nm2833612	writer	written by	\N
+tt1136608	15	nm0192253	producer	producer	\N
+tt1136608	16	nm0001392	producer	producer	\N
+tt1136608	17	nm0795141	composer	\N	\N
+tt1136608	18	nm1022001	cinematographer	director of photography	\N
+tt1136608	19	nm1026592	editor	\N	\N
+tt1136608	20	nm2334596	editor	videotape editor	\N
+tt1136608	21	nm3053042	casting_director	\N	\N
+tt1136608	22	nm1134464	production_designer	\N	\N
+tt1213929	1	nm1970380	actor	\N	["Elvis"]
+tt1213929	2	nm0782648	actor	\N	["Tumi"]
+tt1213929	3	nm2092886	actress	\N	["Rose"]
+tt1213929	4	nm2982557	actress	\N	["Ayanda"]
+tt1213929	5	nm0887063	actor	\N	["Fanie van Zyl"]
+tt1213929	6	nm3568647	actress	\N	["Ma Valerie"]
+tt1213929	7	nm4987261	actress	\N	["Zuki"]
+tt1213929	8	nm2593500	actress	\N	["Daisy"]
+tt1213929	9	nm2845104	actor	\N	["Tony"]
+tt1213929	10	nm4987442	actress	\N	["Gloria"]
+tt1213929	11	nm0877617	director	\N	\N
+tt1213929	12	nm1970380	writer	\N	\N
+tt1213929	13	nm0782648	writer	\N	\N
+tt1213929	14	nm0877617	writer	\N	\N
+tt1213929	15	nm1970380	producer	producer	\N
+tt1213929	16	nm0782648	producer	producer	\N
+tt1213929	17	nm0877617	producer	producer	\N
+tt1213929	18	nm2000028	composer	\N	\N
+tt1213929	19	nm1868210	cinematographer	\N	\N
+tt1213929	20	nm1380202	editor	\N	\N
+tt1213929	21	nm2854076	production_designer	\N	\N
+tt1646111	1	nm3886422	actress	\N	["Chanda"]
+tt1646111	2	nm3905540	actress	\N	["Esther"]
+tt1646111	3	nm1003035	actress	\N	["Mrs. Tafa"]
+tt1646111	4	nm3906912	actress	\N	["Lillian"]
+tt1646111	5	nm2261371	actress	\N	["Aunt Lizbet"]
+tt1646111	6	nm3914667	actor	\N	["Jonah"]
+tt1646111	7	nm3905770	actress	\N	["Iris"]
+tt1646111	8	nm3905071	actor	\N	["Soly"]
+tt1646111	9	nm3779604	actress	\N	["Dudu"]
+tt1646111	10	nm1000594	actress	\N	["Aunty Ruth"]
+tt1646111	11	nm0005628	director	\N	\N
+tt1646111	12	nm0285168	writer	screenplay	\N
+tt1646111	13	nm0005628	writer	\N	\N
+tt1646111	14	nm0833619	writer	novel "Chanda's Secrets"	\N
+tt1646111	15	nm0831624	producer	producer	\N
+tt1646111	16	nm0039463	composer	\N	\N
+tt1646111	17	nm3905893	composer	\N	\N
+tt1646111	18	nm0419297	cinematographer	\N	\N
+tt1646111	19	nm0336063	editor	\N	\N
+tt1646111	20	nm0497922	casting_director	\N	\N
+tt1823672	1	nm1663205	actor	\N	["Chappie"]
+tt1823672	2	nm2353862	actor	\N	["Deon Wilson"]
+tt1823672	3	nm0413168	actor	\N	["Vincent Moore"]
+tt1823672	4	nm0000244	actress	\N	["Michelle Bradley"]
+tt1823672	5	nm4375135	actor	\N	["Ninja"]
+tt1823672	6	nm4375497	actress	\N	["Yo-Landi"]
+tt1823672	7	nm1504678	actor	\N	["Yankie (Amerika)"]
+tt1823672	8	nm1409827	actor	\N	["Hippo"]
+tt1823672	9	nm3520514	actor	\N	["Pitbull"]
+tt1823672	10	nm0177846	actor	\N	["Anderson Cooper"]
+tt1823672	11	nm0088955	director	\N	\N
+tt1823672	12	nm0088955	writer	written by	\N
+tt1823672	13	nm2833612	writer	written by	\N
+tt1823672	14	nm0088955	producer	producer	\N
+tt1823672	15	nm1334526	producer	producer	\N
+tt1823672	16	nm0001877	composer	\N	\N
+tt1823672	17	nm1022001	cinematographer	\N	\N
+tt1823672	18	nm1026592	editor	\N	\N
+tt1823672	19	nm0325358	editor	\N	\N
+tt1823672	20	nm0177134	production_designer	\N	\N
+tt1899240	1	nm1596318	actor	\N	["Cassim Kaif"]
+tt1899240	2	nm1081121	actor	\N	["Ebrahim Kaif"]
+tt1899240	3	nm1950753	actor	\N	["Yusuf"]
+tt1899240	4	nm0628063	actress	\N	["Fatima Kaif"]
+tt1899240	5	nm4383732	actress	\N	["Dadi Kaif"]
+tt1899240	6	nm4427644	actress	\N	["Aisha Kaif"]
+tt1899240	7	nm4428604	actress	\N	["Zulfa Ahmed"]
+tt1899240	8	nm0831104	actor	\N	["Rafiq Kaif"]
+tt1899240	9	nm1461118	actress	\N	["Shareen"]
+tt1899240	10	nm0451154	actor	\N	["Faheem"]
+tt1899240	11	nm0293822	director	\N	\N
+tt1899240	12	nm0032557	writer	story	\N
+tt1899240	13	nm1689473	writer	story	\N
+tt1899240	14	nm0293822	writer	screenplay	\N
+tt1899240	15	nm1596318	writer	story	\N
+tt1899240	16	nm0032557	producer	producer	\N
+tt1899240	17	nm2041304	producer	producer	\N
+tt1899240	18	nm4475216	composer	composer	\N
+tt1899240	19	nm2344053	cinematographer	director of photography	\N
+tt1899240	20	nm0318701	editor	\N	\N
+tt1899240	21	nm2667044	casting_director	\N	\N
+tt1899240	22	nm0824672	production_designer	\N	\N
+tt1922721	1	nm1824509	actor	\N	["François van Heerden"]
+tt1922721	2	nm3952735	actor	\N	["Christian Roodt"]
+tt1922721	3	nm2879304	actress	\N	["Elena van Heerden"]
+tt1922721	4	nm0548133	actor	\N	["Willem Roodt"]
+tt1922721	5	nm4464059	actress	\N	["Marika Roodt"]
+tt1922721	6	nm4465169	actress	\N	["Anika van Heerden"]
+tt1922721	7	nm2849995	actor	\N	["Cliff Engel"]
+tt1922721	8	nm0899746	actor	\N	["Brian"]
+tt1922721	9	nm4251480	actor	\N	["Henri"]
+tt1922721	10	nm0809770	actor	\N	["Gideon"]
+tt1922721	11	nm3564996	director	\N	\N
+tt1922721	12	nm2994729	writer	\N	\N
+tt1922721	13	nm3564996	writer	\N	\N
+tt1922721	14	nm2994729	producer	producer	\N
+tt1922721	15	nm4445631	composer	\N	\N
+tt1922721	16	nm3280430	cinematographer	\N	\N
+tt1922721	17	nm6480194	editor	off-line editor	\N
+tt1922721	18	nm5290795	editor	\N	\N
+tt1922721	19	nm1951044	casting_director	\N	\N
+tt1922721	20	nm0507194	production_designer	\N	\N
+tt1937504	1	nm1970636	actor	\N	["Atang Mokoenya"]
+tt1937504	2	nm4469640	actress	\N	["Dineo"]
+tt1937504	3	nm5167298	actor	\N	["Orphan Boy"]
+tt1937504	4	nm0595677	actor	\N	["Katleho"]
+tt1937504	5	nm0149266	actor	\N	["Priest"]
+tt1937504	6	nm0239225	actress	\N	["Clinic Doctor"]
+tt1937504	7	nm7048542	actor	\N	["Mokebe"]
+tt1937504	8	nm7048543	actress	\N	["Burnt rondavel woman"]
+tt1937504	9	nm7048544	actress	\N	["Nkoti"]
+tt1937504	10	nm7048545	actor	\N	["Funeral home director"]
+tt1937504	11	nm0610938	director	\N	\N
+tt1937504	12	nm0610938	writer	writer	\N
+tt1937504	13	nm0101618	producer	producer	\N
+tt1937504	14	nm4470017	producer	producer	\N
+tt1937504	15	nm4469654	producer	producer	\N
+tt1937504	16	nm0610938	producer	producer	\N
+tt1937504	17	nm0589217	composer	\N	\N
+tt1937504	18	nm9842194	cinematographer	cinematographer	\N
+tt1937504	19	nm0610938	editor	\N	\N
+tt1937504	20	nm1838054	casting_director	\N	\N
+tt1937504	21	nm4440271	production_designer	\N	\N
+tt2304771	1	nm0252961	actor	\N	["Nelson Mandela"]
+tt2304771	2	nm0365140	actress	\N	["Winnie Madikizela"]
+tt2304771	3	nm1965907	actress	\N	["Evelyn Mase"]
+tt2304771	4	nm1193091	actor	\N	["Chief Warder"]
+tt2304771	5	nm0450961	actor	\N	["Walter Sisulu"]
+tt2304771	6	nm1596318	actor	\N	["Ahmed Kathrada"]
+tt2304771	7	nm6115719	actor	\N	["Raymond Mhlaba"]
+tt2304771	8	nm0595805	actor	\N	["Andrew Mlangeni"]
+tt2304771	9	nm0596350	actor	\N	["Govan Mbeki"]
+tt2304771	10	nm2293920	actor	\N	["Elias Motsoaledi"]
+tt2304771	11	nm0149491	director	\N	\N
+tt2304771	12	nm0629933	writer	screenplay	\N
+tt2304771	13	nm0541691	writer	autobiography	\N
+tt2304771	14	nm0802081	producer	producer	\N
+tt2304771	15	nm0373588	composer	\N	\N
+tt2304771	16	nm0187018	cinematographer	director of photography	\N
+tt2304771	17	nm1534662	editor	\N	\N
+tt2304771	18	nm0497922	casting_director	\N	\N
+tt2304771	19	nm0106709	production_designer	\N	\N
+tt2396489	1	nm1441167	actor	\N	["Tau"]
+tt2396489	2	nm3440795	actress	\N	["Lerato"]
+tt2396489	3	nm2370080	actor	\N	["Sepoko"]
+tt2396489	4	nm1970380	actor	\N	["Bongani"]
+tt2396489	5	nm1796759	actor	\N	["Luyanda"]
+tt2396489	6	nm3914667	actor	\N	["Unathi"]
+tt2396489	7	nm6175351	actor	\N	["Sizwe"]
+tt2396489	8	nm0595677	actor	\N	["Jonah"]
+tt2396489	9	nm4676236	actor	\N	["Thuto"]
+tt2396489	10	nm0288426	actor	\N	["Honest John"]
+tt2396489	11	nm3462290	director	\N	\N
+tt2396489	12	nm3438352	writer	screenplay	\N
+tt2396489	13	nm3462290	writer	story	\N
+tt2396489	14	nm3438352	producer	producer	\N
+tt2396489	15	nm2829169	producer	producer	\N
+tt2396489	16	nm3462290	producer	producer	\N
+tt2396489	17	nm4145354	producer	producer	\N
+tt2396489	18	nm3461872	composer	\N	\N
+tt2396489	19	nm3462588	cinematographer	director of photography	\N
+tt2396489	20	nm4194837	editor	\N	\N
+tt2396489	21	nm0497922	casting_director	\N	\N
+tt2396489	22	nm0507194	production_designer	\N	\N
+tt2585072	1	nm4845010	actor	\N	["Chili Ngcobo"]
+tt2585072	2	nm1970113	actor	\N	["Shoes Moshoeshoe"]
+tt2585072	3	nm1987447	actor	\N	["Skroef - Mandla Senzangakhona"]
+tt2585072	4	nm0782764	actor	\N	["Mambane - Osborne Zulu"]
+tt2585072	5	nm4676236	actor	\N	["G8 - Ratshidi Kgabi"]
+tt2585072	6	nm1412281	actress	\N	["Cheesegirl - Gugu Zulu"]
+tt2585072	7	nm0559338	actor	\N	["Slim - Jabu Dlamini"]
+tt2585072	8	nm2152608	actor	\N	["Dex - Kenny Baloyi"]
+tt2585072	9	nm3125001	actor	\N	["Stakes - Stevland Daniels"]
+tt2585072	10	nm1409827	actor	\N	["Warren Fourie"]
+tt2585072	11	nm1804518	director	\N	\N
+tt2585072	12	nm1804518	writer	screenplay	\N
+tt2585072	13	nm1292341	producer	executive producer	\N
+tt2585072	14	nm1804518	producer	executive producer	\N
+tt2585072	15	nm5443641	producer	producer	\N
+tt2585072	16	nm3754505	producer	producer	\N
+tt2585072	17	nm2034608	composer	\N	\N
+tt2585072	18	nm1962564	cinematographer	\N	\N
+tt2585072	19	nm1804518	editor	\N	\N
+tt2585072	20	nm1093013	production_designer	production_designer	\N
+tt3243554	1	nm3125001	actor	\N	["Farakhan"]
+tt3243554	2	nm6000282	actor	\N	["Ricardo Galam"]
+tt3243554	3	nm3180439	actress	\N	["Dr. Leila Domingo"]
+tt3243554	4	nm5243552	actor	\N	["Gasant Lawrence"]
+tt3243554	5	nm3768689	actor	\N	["Capt. Tito Hanekom"]
+tt3243554	6	nm6658358	actor	\N	["Boeta Charlie - 28 mamboza"]
+tt3243554	7	nm1101702	actor	\N	["Coltrane"]
+tt3243554	8	nm6658359	actress	\N	["Maddy Hanekom"]
+tt3243554	9	nm1824509	actor	\N	["Supt. Adams"]
+tt3243554	10	nm6658360	actor	\N	["Snowball"]
+tt3243554	11	nm1461381	director	\N	\N
+tt3243554	12	nm2426340	writer	screenplay	\N
+tt3243554	13	nm4943343	writer	screenplay	\N
+tt3243554	14	nm1709438	producer	producer	\N
+tt3243554	15	nm0389414	producer	producer	\N
+tt3243554	16	nm4216993	composer	\N	\N
+tt3243554	17	nm0878062	cinematographer	\N	\N
+tt3243554	18	nm0519787	editor	\N	\N
+tt3243554	19	nm0497922	casting_director	\N	\N
+tt3243554	20	nm1103054	production_designer	production_designer	\N
+tt3487278	1	nm4262886	actor	\N	["Solomon"]
+tt3487278	2	nm2983641	actor	\N	["Mondy"]
+tt3487278	3	nm5440403	actor	\N	["Tommy London"]
+tt3487278	4	nm2361025	actor	\N	["Lucky"]
+tt3487278	5	nm1173451	actor	\N	["Van Heerden"]
+tt3487278	6	nm4485869	actor	\N	["Lucas Mahlangu"]
+tt3487278	7	nm3413191	actress	\N	["Brenda Riviera"]
+tt3487278	8	nm0583907	actress	\N	["Martha Mahlangu"]
+tt3487278	9	nm0887063	actor	\N	["Judge Theron"]
+tt3487278	10	nm3088790	actor	\N	["Mr. Mailer"]
+tt3487278	11	nm0239228	director	\N	\N
+tt3487278	12	nm0239228	writer	\N	\N
+tt3487278	13	nm6239889	writer	\N	\N
+tt3487278	14	nm1905706	producer	producer	\N
+tt3487278	15	nm0239228	producer	producer	\N
+tt3487278	16	nm1165830	composer	\N	\N
+tt3487278	17	nm1368219	cinematographer	\N	\N
+tt3487278	18	nm1208669	editor	\N	\N
+tt3487278	19	nm1838054	casting_director	original casting director	\N
+tt3487278	20	nm1093013	production_designer	\N	\N
+tt3921136	1	nm5701055	actress	\N	["Skiets"]
+tt3921136	2	nm4947421	actor	\N	["TK"]
+tt3921136	3	nm2415539	actor	\N	["Kunta"]
+tt3921136	4	nm18898339	actress	\N	["Bored motel clerk"]
+tt3921136	5	nm9249398	actress	\N	["Club Girl"]
+tt3921136	6	nm2415509	actor	\N	["Enoch"]
+tt3921136	7	nm4676236	actor	\N	["Sporo"]
+tt3921136	8	nm18898340	actress	\N	["Gugu"]
+tt3921136	9	nm18898341	actress	\N	["Palesa"]
+tt3921136	10	nm1987447	actor	\N	["Mugza"]
+tt3921136	11	nm5873079	director	\N	\N
+tt3921136	12	nm5471839	writer	\N	\N
+tt3921136	13	nm2165229	producer	producer	\N
+tt3921136	14	nm0819680	producer	producer	\N
+tt3921136	15	nm4258962	composer	\N	\N
+tt3921136	16	nm1962564	cinematographer	\N	\N
+tt3921136	17	nm2534246	editor	\N	\N
+tt3921136	18	nm1093013	production_designer	\N	\N
+tt4573706	1	nm2343919	actor	\N	["Agency Guy"]
+tt4573706	2	nm2347318	actor	\N	["Gordon"]
+tt4573706	3	nm7236574	actor	\N	["Nat"]
+tt4573706	4	nm7580248	actress	\N	["Moratiwa"]
+tt4573706	5	nm7877944	actress	\N	["Zodwa"]
+tt4573706	6	nm0623478	actor	\N	["Electrician"]
+tt4573706	7	nm1001874	actress	\N	["Lola"]
+tt4573706	8	nm5701055	actress	\N	["Tshaka"]
+tt4573706	9	nm0648473	director	\N	\N
+tt4573706	10	nm0648473	writer	\N	\N
+tt4573706	11	nm2041304	writer	\N	\N
+tt4573706	12	nm0032557	producer	producer	\N
+tt4573706	13	nm2041304	producer	producer	\N
+tt4573706	14	nm0585129	cinematographer	\N	\N
+tt4573706	15	nm1700220	editor	\N	\N
+tt4627352	1	nm0176869	actor	\N	["John Weber"]
+tt4627352	2	nm2057859	actress	\N	["Kathleen Marais"]
+tt4627352	3	nm3736436	actor	\N	["Leon Labuschagne"]
+tt4627352	4	nm2347844	actor	\N	["Pedrie Wierda"]
+tt4627352	5	nm1824509	actor	\N	["Warrant Officer Rautenbach"]
+tt4627352	6	nm0887063	actor	\N	["Justice J.P. van Zyl"]
+tt4627352	7	nm1193091	actor	\N	["Pierre de Villiers"]
+tt4627352	8	nm4125416	actress	\N	["John's Sister"]
+tt4627352	9	nm0723857	actor	\N	["Doubles Partner"]
+tt4627352	10	nm2467118	actor	\N	["Tennis partner"]
+tt4627352	11	nm0005628	director	\N	\N
+tt4627352	12	nm0184937	writer	screenplay	\N
+tt4627352	13	nm7885020	writer	novel	\N
+tt4627352	14	nm0184937	producer	producer	\N
+tt4627352	15	nm0802081	producer	producer	\N
+tt4627352	16	nm0378364	composer	\N	\N
+tt4627352	17	nm0834505	cinematographer	director of photography	\N
+tt4627352	18	nm0318701	editor	\N	\N
+tt4627352	19	nm0576685	editor	\N	\N
+tt4627352	20	nm0497922	casting_director	\N	\N
+tt4627352	21	nm0073849	production_designer	production_designer	\N
+tt4996954	1	nm1001882	actor	\N	["Madoda"]
+tt4996954	2	nm4610062	actor	\N	["Nhlanhla"]
+tt4996954	3	nm7984835	actor	\N	["Nkulu"]
+tt4996954	4	nm7984836	actress	\N	["Zanele"]
+tt4996954	5	nm7984837	actress	\N	["Zodwa"]
+tt4996954	6	nm4676236	actor	\N	["Xolani"]
+tt4996954	7	nm3473214	actress	\N	["Thobeka"]
+tt4996954	8	nm3705393	actor	\N	["Jabu"]
+tt4996954	9	nm6505638	actor	\N	["Sabata"]
+tt4996954	10	nm13118174	actor	\N	["Phone Stand Guy"]
+tt4996954	11	nm0648473	director	\N	\N
+tt4996954	12	nm0293822	writer	\N	\N
+tt4996954	13	nm4685732	writer	\N	\N
+tt4996954	14	nm8379715	writer	\N	\N
+tt4996954	15	nm8379716	writer	\N	\N
+tt4996954	16	nm0032557	producer	producer	\N
+tt4996954	17	nm7563948	producer	producer	\N
+tt4996954	18	nm0648473	producer	producer	\N
+tt4996954	19	nm1699856	producer	producer	\N
+tt4996954	20	nm2000028	composer	\N	\N
+tt4996954	21	nm7984838	cinematographer	\N	\N
+tt4996954	22	nm1700220	editor	\N	\N
+tt4996954	23	nm0497922	casting_director	\N	\N
+tt5174974	1	nm2749347	actress	\N	["Nandi"]
+tt5174974	2	nm7315637	actress	\N	["Zaza"]
+tt5174974	3	nm1998656	actress	\N	["Princess"]
+tt5174974	4	nm2475161	actor	\N	["Thomas"]
+tt5174974	5	nm3906542	actor	\N	["Chris"]
+tt5174974	6	nm3827844	actor	\N	["Leo"]
+tt5174974	7	nm0595805	actor	\N	["Beki"]
+tt5174974	8	nm0199226	actor	\N	["Mathaba"]
+tt5174974	9	nm2748615	actor	\N	["Bongani"]
+tt5174974	10	nm1410288	actor	\N	["Le Roux"]
+tt5174974	11	nm0596570	director	\N	\N
+tt5174974	12	nm11411829	writer	original story	\N
+tt5174974	13	nm2344969	writer	\N	\N
+tt5174974	14	nm2165229	producer	producer	\N
+tt5174974	15	nm3695360	producer	producer	\N
+tt5174974	16	nm0819680	producer	producer	\N
+tt5174974	17	nm2034608	composer	\N	\N
+tt5174974	18	nm1486670	cinematographer	\N	\N
+tt5174974	19	nm2534246	editor	\N	\N
+tt5174974	20	nm2502981	editor	\N	\N
+tt5174974	21	nm0787836	casting_director	\N	\N
+tt5174974	22	nm1792692	production_designer	\N	\N
+tt5702884	1	nm4442243	actress	\N	["Gugu"]
+tt5702884	2	nm3888100	actor	\N	["Joe"]
+tt5702884	3	nm2293920	actor	\N	["Dumile"]
+tt5702884	4	nm2467397	actor	\N	["Thabang"]
+tt5702884	5	nm7607384	actress	\N	["Anna"]
+tt5702884	6	nm8184755	actress	\N	["Bongi"]
+tt5702884	7	nm6652898	actress	\N	["Marie"]
+tt5702884	8	nm0925722	actor	\N	["David"]
+tt5702884	9	nm0680771	actor	\N	["Bab' Radebe"]
+tt5702884	10	nm3333413	actor	\N	["Traffic Cop"]
+tt5702884	11	nm3767221	director	\N	\N
+tt5702884	12	nm7338292	writer	\N	\N
+tt5702884	13	nm6670122	writer	writer	\N
+tt5702884	14	nm6636994	producer	producer	\N
+tt5702884	15	nm2594182	producer	producer	\N
+tt5702884	16	nm8031753	producer	producer	\N
+tt5702884	17	nm6670122	producer	producer	\N
+tt5702884	18	nm1962564	cinematographer	director of photography	\N
+tt5702884	19	nm6713378	editor	\N	\N
+tt5702884	20	nm8031754	casting_director	casting_director	\N
+tt5827360	1	nm1616879	actor	\N	["Max"]
+tt5827360	2	nm1616879	actor	\N	["husband"]
+tt5827360	3	nm3413191	actress	\N	["Sam"]
+tt5827360	4	nm3413191	actress	\N	["wife"]
+tt5827360	5	nm0118201	actor	\N	["Heiner"]
+tt5827360	6	nm0648473	actor	\N	["Joel"]
+tt5827360	7	nm0648473	actor	\N	["Max's friend"]
+tt5827360	8	nm5366201	actress	\N	["Lazola"]
+tt5827360	9	nm5366201	actress	\N	["Sam's friend"]
+tt5827360	10	nm5539110	actress	\N	["Tabitha"]
+tt5827360	11	nm5539110	actress	\N	["Joel's mistress"]
+tt5827360	12	nm1339181	actress	\N	["Nicole"]
+tt5827360	13	nm1339181	actress	\N	["journalist"]
+tt5827360	14	nm2343919	actor	\N	["Clive"]
+tt5827360	15	nm2343919	actor	\N	["Lecturer"]
+tt5827360	16	nm1286978	actor	\N	["Miles"]
+tt5827360	17	nm2343303	actor	\N	["Zweli"]
+tt5827360	18	nm1616879	director	\N	\N
+tt5827360	19	nm1616879	writer	\N	\N
+tt5827360	20	nm3382110	producer	producer	\N
+tt5827360	21	nm1616879	producer	executive producer	\N
+tt5827360	22	nm8467969	composer	\N	\N
+tt5827360	23	nm3402807	cinematographer	\N	\N
+tt5827360	24	nm6619422	editor	\N	\N
+tt5827360	25	nm2853705	production_designer	\N	\N
+tt6042062	1	nm3022211	actress	\N	["Jennifer Kandasamy"]
+tt6042062	2	nm3568690	actress	\N	["Shanti Naidoo"]
+tt6042062	3	nm6609208	actress	\N	["Jodi Kandasamy"]
+tt6042062	4	nm8360127	actor	\N	["Prishen Naidoo"]
+tt6042062	5	nm8779367	actress	\N	["Aya"]
+tt6042062	6	nm1565979	actor	\N	["Preggie Naidoo"]
+tt6042062	7	nm5357258	actor	\N	["Elvis Kandasamy"]
+tt6042062	8	nm8779368	actor	\N	["Desan Kandasamy"]
+tt6042062	9	nm9518179	actor	\N	["Marlin"]
+tt6042062	10	nm8360128	actor	\N	["Asheel"]
+tt6042062	11	nm8360126	director	director	\N
+tt6042062	12	nm8360128	writer	\N	\N
+tt6042062	13	nm8360126	writer	\N	\N
+tt6042062	14	nm2165229	producer	producer	\N
+tt6042062	15	nm0819680	producer	producer	\N
+tt6042062	16	nm4258962	composer	\N	\N
+tt6042062	17	nm5030613	cinematographer	\N	\N
+tt6042062	18	nm2534246	editor	\N	\N
+tt6333070	1	nm8666453	actor	\N	["Xolani"]
+tt6333070	2	nm6938967	actor	\N	["Vija"]
+tt6333070	3	nm8284910	actor	\N	["Kwanda"]
+tt6333070	4	nm6750901	actor	\N	["Babalo"]
+tt6333070	5	nm9560888	actor	\N	["Khwalo"]
+tt6333070	6	nm8279572	actor	\N	["Elder 1"]
+tt6333070	7	nm9560889	actor	\N	["Elder 2"]
+tt6333070	8	nm8735382	actor	\N	["Sicelo"]
+tt6333070	9	nm8735383	actor	\N	["Lukas"]
+tt6333070	10	nm8735384	actor	\N	["Ncedo"]
+tt6333070	11	nm1626716	director	\N	\N
+tt6333070	12	nm1626716	writer	written by	\N
+tt6333070	13	nm8666455	writer	written by	\N
+tt6333070	14	nm8666456	writer	written by	\N
+tt6333070	15	nm6318510	writer	based on a story by	\N
+tt6333070	16	nm7333477	producer	producer	\N
+tt6333070	17	nm2819378	producer	producer	\N
+tt6333070	18	nm5593758	composer	\N	\N
+tt6333070	19	nm4552556	cinematographer	director of photography	\N
+tt6333070	20	nm7182456	editor	\N	\N
+tt6333070	21	nm7333477	casting_director	\N	\N
+tt6333070	22	nm0962709	production_designer	\N	\N
+tt6333070	23	nm0803228	production_designer	\N	\N
+tt7416536	1	nm2213212	actor	\N	["John Kepe"]
+tt7416536	2	nm0475982	actor	\N	["Gen. Helmut Botha"]
+tt7416536	3	nm0565973	actress	\N	["Golden Eyes"]
+tt7416536	4	nm3333342	actor	\N	["Black Wyatt Earp"]
+tt7416536	5	nm4466132	actor	\N	["Simon Potgieter"]
+tt7416536	6	nm6680807	actress	\N	["Birthmark"]
+tt7416536	7	nm3107870	actor	\N	["Frontiersman"]
+tt7416536	8	nm6938967	actor	\N	["Fearless the Rabble Rouser"]
+tt7416536	9	nm2595894	actress	\N	["Mole"]
+tt7416536	10	nm5278955	actor	\N	["The Scar-Faced Kid"]
+tt7416536	11	nm2745760	director	\N	\N
+tt7416536	12	nm2745760	writer	\N	\N
+tt7416536	13	nm4351088	producer	producer	\N
+tt7416536	14	nm0468384	cinematographer	director of photography	\N
+tt7416536	15	nm4351088	editor	\N	\N
+tt7416536	16	nm6642559	casting_director	\N	\N
+tt7416536	17	nm0746198	production_designer	production_designer	\N
+tt8442402	1	nm3333342	actor	\N	["Art Nyakama"]
+tt8442402	2	nm2299289	actor	\N	["Goatee"]
+tt8442402	3	nm6938967	actor	\N	["Dudu Nyakama"]
+tt8442402	4	nm1099054	actress	\N	["Ma Bokwana"]
+tt8442402	5	nm7040695	actor	\N	["Duke Nyakama"]
+tt8442402	6	nm0623506	actor	\N	["Bra Pat"]
+tt8442402	7	nm2850381	actress	\N	["Mother Hen"]
+tt8442402	8	nm10051395	actress	\N	["Minky"]
+tt8442402	9	nm0782764	actor	\N	["Bra Links"]
+tt8442402	10	nm6644759	actor	\N	["Sweaty MC"]
+tt8442402	11	nm2745760	director	\N	\N
+tt8442402	12	nm2745760	writer	\N	\N
+tt8442402	13	nm4351088	producer	producer	\N
+tt8442402	14	nm16807902	composer	\N	\N
+tt8442402	15	nm1868210	cinematographer	\N	\N
+tt8442402	16	nm4351088	editor	\N	\N
+tt8442402	17	nm5295044	production_designer	\N	\N
